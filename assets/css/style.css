@@ -1,0 +1,83 @@
+
+#container{
+    width: 935px;
+    margin: 0 auto;
+}
+div {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+#header{
+    height: 100px;
+    width: 890px;
+}
+#sidebar{
+    height: 500px;
+    width: 180px;
+    float: left;
+    margin-top: 0;
+}
+#content{
+        width: 668px;
+        height: 500px;
+        float: left;
+        margin: 0;
+}
+#footer{
+    width: 893px;
+    height: 50px;
+    clear: left;
+}
+img{
+    width: 250px;
+    height: 110px;
+}
+#sidebar1{
+    width: 138px;
+    height: 30px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+#sidebar2{
+    width: 50px;
+    height: 55px;
+    float: left;
+    margin: 0;
+    margin-left: 10px;
+}
+#sidebar3{
+    width: 50px;
+    height: 55px;
+    float: left;
+    margin: 0;
+    margin-left: 15px;
+}
+#sidebar4{
+    width: 138px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+}
+#content5{
+    width: 70px;
+    height: 75px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#content6{
+    width: 70px;
+    height: 75px;
+    float: right;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+#footer7{
+    width: 70px;
+    height: 20px;
+    float: right;
+   margin: 0;
+   margin-top: 4px;
+}
